@@ -36,7 +36,7 @@ Publish with GitHub Pages
 
 5\. When deployment completes, open the site link shown in Pages settings.
 
-For a standard project repository, the address typically follows https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/.
+For a standard project repository, the address typically follows https://SKYC13.github.io/FY26BattleE.PersonnelReadinessSummary/.
 
 See GitHub’s publishing-source instructions.
 
